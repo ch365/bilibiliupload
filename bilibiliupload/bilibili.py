@@ -17,7 +17,8 @@ import rsa
 import time
 
 from io import BufferedReader
-from typing import *
+# from typing import *
+from typing import Union, List
 from urllib import parse
 
 log = logging.getLogger(__name__)
